@@ -1,0 +1,19 @@
+#feedback{
+    padding: 0% 10%;
+}
+.carousel-item{
+    padding: 5% 15%;
+    text-align: center;
+    font-style: italic;
+}
+.carousel-item p{
+    text-align: justify;
+}
+.carousel-indicators{
+    bottom: -10px;
+}
+.feedback{
+    border-bottom: 5px dotted white;
+    width: 120px;
+    margin: 0 auto;
+}
